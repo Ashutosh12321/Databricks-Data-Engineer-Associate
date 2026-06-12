@@ -1,1 +1,2 @@
 -- Just a SQL file
+-- Adding this comment and pushing to pr_test branch to chekout pull request and merge operations.
